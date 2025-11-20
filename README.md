@@ -5,6 +5,17 @@
 📈 **Solution**: Implemented an advanced **Excel-based StyleStats Dashboard** with interactive charts, KPIs, and filters.  
 
 ---
+Main Page :
+
+![image alt](https://github.com/ShanujaSaliya/StyleStats-ExcelDashboard/blob/dcc902f3e413c16eb5484365505982e922cf7083/Main%20Page.png)
+
+Insights :
+
+![image alt](https://github.com/ShanujaSaliya/StyleStats-ExcelDashboard/blob/dcc902f3e413c16eb5484365505982e922cf7083/Chart_Visual.png)
+
+Dashboard :
+
+![image alt](https://github.com/ShanujaSaliya/StyleStats-ExcelDashboard/blob/dcc902f3e413c16eb5484365505982e922cf7083/Dashboard.png)
 
 ## 🔎 Questions answered (analysis list)
 
